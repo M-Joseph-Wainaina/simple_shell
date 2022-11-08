@@ -112,8 +112,7 @@ Repo:
 GitHub repository: simple_shell
 ```
 # 1. Simple shell 0.1
-mandatory
-Write a UNIX command line interpreter.
+mandatory: Write a UNIX command line interpreter.
 
 Usage: ```simple_shell```
 
@@ -131,7 +130,7 @@ You don’t have to:
 
 * use the PATH
 * implement built-ins
-* handle special characters :``` ", ', , \, *, &, # ```
+* handle special characters : ", ', , \, *, &, #
 * be able to move the cursor
 * handle commands with arguments
 * execve will be the core part of your Shell, don’t forget to pass the environ to it…
@@ -197,7 +196,8 @@ Repo:
 
 GitHub repository: simple_shell
 ```
-4. Simple shell 0.4
+
+# 4. Simple shell 0.4
 mandatory
 Simple shell 0.3 +
 
